@@ -86,3 +86,7 @@ The following libraries are used in the project.
 
 - The _Clear_ button in home page doesnt clear the date picker
 - The dates selected by _react-semantic-ui-datepickers_ gives a day prior to what the user selects (to mitigate this I add an extra day)
+
+### Demo
+
+You can test the Demo application using the [live site](https://starwars-planet-travel.netlify.app/).
